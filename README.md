@@ -5,7 +5,7 @@ FORK NOTES: There's a very cheeky message saying you're an i***t if you try to i
 <h4 align="center">Note: A full install of a supported Linux distro is required! Live USB sessions will not work.</h4>
 
 # Instructions
-1.     git clone https://github.com/WeirdTreeThing/chromebook-linux-audio
+1.     git clone https://github.com/grantmk/chromebook-linux-audio-UBUNTU
 2.     cd chromebook-linux-audio
 3.     ./setup-audio
 
@@ -26,7 +26,8 @@ See the [Chrultrabook docs](https://docs.chrultrabook.com/docs/firmware/supporte
 7. Void Linux
 
 # Ubuntu
-Do not use ubuntu, it is not supported.
+Original: Do not use ubuntu, it is not supported. 
+My reply: Yeah but it works on 24.04. 
 
 # Other Distros
 Other distros will likely work but will require you to manually install packages.
