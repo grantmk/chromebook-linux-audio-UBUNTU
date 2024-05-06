@@ -1,3 +1,5 @@
+FORK NOTES: There's a very cheeky message saying you're an i***t if you try to install this on Ubuntu and the script doesn't let you. I modded the script to bypass that, tried on Ubuntu 24.04 and audio is FINE (on C1030 Chromebook). YMMV for your chromebook. If it doesn't work then you're SOL.
+
 <h1 align="center">Python script to enable audio support on Chrome devices</h1>
 
 <h4 align="center">Note: A full install of a supported Linux distro is required! Live USB sessions will not work.</h4>
